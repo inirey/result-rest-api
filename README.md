@@ -29,6 +29,7 @@ please look at the WhatsApp bot repository
 ```js
 /**
  * Textpro saver by @isywl_ aka Rey
+ * Coded by ibnusyawal
 **/
 
 var fs = require('fs')
