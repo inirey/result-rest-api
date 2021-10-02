@@ -21,3 +21,31 @@ res.json(loghandler.invalidKey)
 })
 ```
 </p>
+
+## textpro scraper
+
+please look at the WhatsApp bot repository 
+
+```js
+/**
+ * Textpro saver by @isywl_ aka Rey
+**/
+
+var fs = require('fs')
+var needle = require('needle')
+
+needle.defaults()['user_agent'] = 'Googlebot'
+
+var text = process.argv.splice(2).join` ` || 'Reys'
+var urls = 'https://server-api-rey.herokuapp.com/api/textpro/${theme}?text={text}&apikey=apirey'
+    .replace('{text}', text)
+
+var filename = `${Date.now()}_textpro.png`
+
+needle(urls, (err, resp, body) => {
+    needle.get(body.result)
+        .pipe(fs.createWriteStream(filename))
+        .on('done', err => console.log(`saved as name: ${filename}`))
+})
+```
+</p>
