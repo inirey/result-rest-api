@@ -1,0 +1,32 @@
+{
+  "name": "result-rest-api",
+  "version": "1.0.0",
+  "description": "free api feature for you",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node main",
+    "test": "supervisor main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inirey/result-rest-api.git"
+  },
+  "keywords": [
+    "Botwea",
+    "rest api",
+    "Free api",
+    "reysekha api",
+    "rey xyz",
+    "rey sekha"
+  ],
+  "author": "Rey",
+  "credits": thanks to ibnusyawal, Zhiirr",
+  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/inirey/result-rest-api"
+  },
+  "homepage": "https://github.com/inirey/result-rest-api"
+}
