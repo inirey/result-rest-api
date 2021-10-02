@@ -13,21 +13,4 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inirey/result-rest-api.git"
-  },
-  "keywords": {
-    "Botwea",
-    "rest api",
-    "Free api",
-    "reysekha api",
-    "rey xyz",
-    "rey sekha"
-  },
- "information": {
-  "author": "Rey",
-  "credits": thanks to ibnusyawal, Zhiirr",
-  "license": "ISC"
-  "bugs": {
-    "url": "https://github.com/inirey/result-rest-api"
-  },
-  "homepage": "https://github.com/inirey/result-rest-api"
-}
+  }
