@@ -1,2 +1,2 @@
-# anime-api
+# API results
 Result from api
