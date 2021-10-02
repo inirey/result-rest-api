@@ -10,7 +10,7 @@ router.get('/anime/shizuka', async (req, res, next) => {
 	if(!Apikey) return res.json(loghandler.notparam)
 	if(listkey.includes(Apikey)){
 
-  const shizuka = JSON.parse(fs.readFileSync(__path +'/${your file database}/shizuka.json'));
+  const shizuka = JSON.parse(fs.readFileSync(__path +'/${namefile}/shizuka.json'));
   const randshizuka = shizuka[Math.floor(Math.random() * shizuka.length)];
   data = await fetch(randshizuka).then(v => v.buffer())
   await fs.writeFileSync(__path +'/tmp/shizuka.jpeg', data)
@@ -37,7 +37,7 @@ var needle = require('needle')
 
 needle.defaults()['user_agent'] = 'Googlebot'
 
-var text = process.argv.splice(2).join` ` || 'Reys'
+var text = process.argv.splice(2).join` ` || 'Rey'
 var urls = 'https://server-api-rey.herokuapp.com/api/textpro/${theme}?text={text}&apikey=apirey'
     .replace('{text}', text)
 
