@@ -2,7 +2,7 @@
 const bent = require('bent')
 const baseURI = 'https://server-api-rey.herokuapp.com'
 //Pakai aja kalau rest API di atas erorr
-const baseURI2 = 'http//api.reysekha.xyz'
+const baseURI2 = 'https://api.dhika.xyz'
 
 module.exports.blackpink = function blackpink(text1) {
 	return new Promise((resolve, reject) => {
