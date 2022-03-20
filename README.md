@@ -1,2 +1,6 @@
 # API results
-Result from api
+
+• Random anime
+• Random image
+• Islamic 
+• Random asupan
