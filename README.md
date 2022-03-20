@@ -1,6 +1,8 @@
-# API results
+# API RESULT JSON
 
-• Random anime
-• Random image
-• Islamic 
-• Random asupan
+## list result
+
+* Random anime
+* Random image
+* Islamic 
+* Random asupan
