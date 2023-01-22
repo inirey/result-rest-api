@@ -1,0 +1,410 @@
+[
+  {
+    "index": 0,
+    "artist": "Nella Kharisma",
+    "judul": "Mundur Alon-Alon",
+    "durasi": 233142,
+    "url": "https://api.spotify.com/v1/tracks/1sOxcTCGLYUe1gLLp4UODs",
+    "preview": "https://p.scdn.co/mp3-preview/75a21e749d7a5eebac893918ac9f48e31da83fce?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 1,
+    "artist": "Rizky Febian",
+        "judul": "Cuek",
+        "durasi": 241919,
+        "url": "https://api.spotify.com/v1/tracks/4sCabvmZpbmfoCNcoCSKEX",
+        "preview": "https://p.scdn.co/mp3-preview/2194be31f7038a8b3c3a806a0898b4a72d7484f6?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 2,
+    "artist": "Noah",
+        "judul": "Kala Cinta Menggoda",
+        "durasi": 234744,
+        "url": "https://api.spotify.com/v1/tracks/4bZzHFP9VFX7HsyPomDwuE",
+        "preview": "https://p.scdn.co/mp3-preview/b1edcaa0ae24d5967a56b835c873c4839059abe8?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 3,
+    "artist": "Anas Glasean",
+        "judul": "Astaghfirullahaladzim",
+        "durasi": 259411,
+        "url": "https://api.spotify.com/v1/tracks/2nXThzZy4QI8HpyXpmuP19",
+        "preview": "https://p.scdn.co/mp3-preview/3c4027c895f7b57729900ab848aed5758ad48b80?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 4,
+    "artist": "Judika",
+        "judul": "Putus Atau Terus",
+        "durasi": 248823,
+        "url": "https://api.spotify.com/v1/tracks/7HBW6yX8iRf81nn6NVOzHL",
+        "preview": "https://p.scdn.co/mp3-preview/078d2dd9ca07942e4bda37ff883f6e54907a5f41?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 5,
+    "artist": "Denny Caknan",
+        "judul": "Sugeng Dalu",
+        "durasi": 323672,
+        "url": "https://api.spotify.com/v1/tracks/0qyzO8E6IBxZv48FG9R3KQ",
+        "preview": "https://p.scdn.co/mp3-preview/87d52cd7755d2754bdfcce402591a1cffeff7c89?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 6,
+    "artist": "Fiersa Besari",
+        "judul": "Melawan Hati",
+        "durasi": 276319,
+        "url": "https://api.spotify.com/v1/tracks/4ZkbziGKPCvWPYnu6dzfgl",
+        "preview": "https://p.scdn.co/mp3-preview/7bba1786839918704c8e79cf8ad27c292274192b?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 7,
+    "artist": "Jaz",
+        "judul": "Penipu Cinta",
+        "durasi": 189023,
+        "url": "https://api.spotify.com/v1/tracks/4EJVtnH8HXFtvozEtacXq7",
+        "preview": "https://p.scdn.co/mp3-preview/1a25fa4a4ca5ff8da253186e91ff4b659c6820bf?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 8,
+    "artist": "Nazar Diepa",
+        "judul": "Dinda (Jangan Marah Marah)",
+        "durasi": 202000,
+        "url": "https://api.spotify.com/v1/tracks/1HITdK6nky9fYKPHm8zOOp",
+        "preview": "https://p.scdn.co/mp3-preview/cfa1797443eb2fa2b8ec2f8da25c14dd2c7dd84f?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 9,
+    "artist": "Anas Glasean",
+        "judul": "Hujan Di Jiwaku",
+        "durasi": 248893,
+        "url": "https://api.spotify.com/v1/tracks/0Bv8C4lY3tYJbZO8PLM07r",
+        "preview": "https://p.scdn.co/mp3-preview/bd50a9fa402b7f24e67eb17de1ce9b48d42fda30?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 10,
+    "artist": "Kaleb J",
+        "judul": "It's Only Me - Studio Version",
+        "durasi": 203075,
+        "url": "https://api.spotify.com/v1/tracks/2CoxJRIhTKvHyFIq9FcDO5",
+        "preview": "https://p.scdn.co/mp3-preview/419fc8277ed14bb9f6d0b8e80cfce02f886cc47b?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 11,
+    "artist": "Anas Glasean",
+        "judul": "Cinta Tak Pernah Lelah",
+        "durasi": 210789,
+        "url": "https://api.spotify.com/v1/tracks/5A69ahUutZ8FWEOoXswkAw",
+        "preview": "https://p.scdn.co/mp3-preview/fc2db104751eef1d353ad861773c5c3e84c6ce60?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 12,
+    "artist": "Judika",
+        "judul": "Putus Atau Terus",
+        "durasi": 248823,
+        "url": "https://api.spotify.com/v1/tracks/7HBW6yX8iRf81nn6NVOzHL",
+        "preview": "https://p.scdn.co/mp3-preview/078d2dd9ca07942e4bda37ff883f6e54907a5f41?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 13,
+    "artist": "Denny Caknan",
+        "judul": "Sugeng Dalu",
+        "durasi": 323672,
+        "url": "https://api.spotify.com/v1/tracks/0qyzO8E6IBxZv48FG9R3KQ",
+        "preview": "https://p.scdn.co/mp3-preview/87d52cd7755d2754bdfcce402591a1cffeff7c89?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 14,
+    "artist": "Yung Lean",
+        "judul": "Ginseng Strip 2002",
+        "durasi": 153999,
+        "url": "https://api.spotify.com/v1/tracks/79nEEoEPY2w8EXj9hjn5oc",
+        "preview": "https://p.scdn.co/mp3-preview/97a82573a9ec119301721d5b81327f0622a478d1?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 15,
+    "artist": "NaFF",
+        "judul": "Terendap Laraku",
+        "durasi": 309360,
+        "url": "https://api.spotify.com/v1/tracks/75oKENo18qceQGUKA7fZGc",
+        "preview": "https://p.scdn.co/mp3-preview/022b80abcd46614b27fae30a0163b7e1213bba66?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 16,
+    "artist": "Rossa",
+        "judul": "Kamu Yang Kutunggu",
+        "durasi": 254013,
+        "url": "https://api.spotify.com/v1/tracks/6RxfiwKHEUCWSR7vRE4b5g",
+        "preview": "https://p.scdn.co/mp3-preview/cbe5eb5df288d69c69a90ffb3fbb3977dc0b1636?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 17,
+    "artist": "Ungu",
+        "judul": "Dengan NafasMu",
+        "durasi": 270946,
+        "url": "https://api.spotify.com/v1/tracks/6Heql99MiIXBaFm0vGMRx2",
+        "preview": "https://p.scdn.co/mp3-preview/a5943d9ad9815ebd53fa2bf039b6047b89142a1d?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 18,
+    "artist": "Afgan",
+        "judul": "Kunci Hati",
+        "durasi": 279777,
+        "url": "https://api.spotify.com/v1/tracks/4wsrLIey6JxyrVQKJ5gV7H",
+        "preview": "https://p.scdn.co/mp3-preview/e75b2f7ec2dd993cdab2b7156374411c98677bda?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 19,
+    "artist": "ST12",
+        "judul": "Cari Pacar Lagi",
+        "durasi": 214400,
+        "url": "https://api.spotify.com/v1/tracks/1at0dTYo8Z3G1q3KnI3nxH",
+        "preview": "https://p.scdn.co/mp3-preview/f6a0cf3c8b7e2e2453209e37d32ef242fde32ad4?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 20,
+    "artist": "Ungu",
+        "judul": "Bila Tiba",
+        "durasi": 252400,
+        "url": "https://api.spotify.com/v1/tracks/2NlNwlgPlVF1iSwKrkW3Qz",
+        "preview": "https://p.scdn.co/mp3-preview/8a7887a8ea33b8c4e4ab95769276b79cd5c6e00c?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 21,
+    "artist": "Dewa 19",
+        "judul": "Kamulah Satu Satunya",
+        "durasi": 241266,
+        "url": "https://api.spotify.com/v1/tracks/6pCfc6xxUXYBWLMQhIWDmh",
+        "preview": "https://p.scdn.co/mp3-preview/dd41a4c6dae750bb34f2a0e46ddf5e71eb98bff1?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 22,
+    "artist": "ST12",
+        "judul": "P.U.S.P.A.",
+        "durasi": 196226,
+        "url": "https://api.spotify.com/v1/tracks/08pqX1H8bGoV767lzfUDKG",
+        "preview": "https://p.scdn.co/mp3-preview/8a47e7d89b62767748b877bcf8f7cee43180ea00?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 23,
+    "artist": "ST12",
+        "judul": "Jangan Pernah Berubah",
+        "durasi": 243400,
+        "url": "https://api.spotify.com/v1/tracks/1oVEttWIOMh2bHHbmzLL4O",
+        "preview": "https://p.scdn.co/mp3-preview/0f66f5909b26856ec6970e3e45a822d439532123?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 24,
+    "artist": "NaFF",
+        "judul": "Kau Masih Kekasihku",
+        "durasi": 285173,
+        "url": "https://api.spotify.com/v1/tracks/4bf1MapeofdB3XKUqDMUOm",
+        "preview": "https://p.scdn.co/mp3-preview/755a23bcb312de76a2e71f37e904939ad2f8280f?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 25,
+    "artist": "Agnes Monica",
+        "judul": "Matahariku",
+        "durasi": 266306,
+        "url": "https://api.spotify.com/v1/tracks/08M6ihbCJmAmfo4uoRYkOD",
+        "preview": "https://p.scdn.co/mp3-preview/def843faee5632e06880a69c836010912c8efa65?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 26,
+    "artist": "Ari Lasso",
+        "judul": "Aku Dan Dirimu (feat. Bunga Citra Lestari)",
+        "durasi": 267946,
+        "url": "https://api.spotify.com/v1/tracks/4cqqhVcbfu4fMk7dKEcLUH",
+        "preview": "https://p.scdn.co/mp3-preview/2b643f62ebc41c461a729f196b5ffc4853e01e3f?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 27,
+    "artist": "Andra & The Backbone",
+        "judul": "Tak Ada Yang Bisa",
+        "durasi": 300651,
+        "url": "https://api.spotify.com/v1/tracks/0LCJ9CyiLfmsqhDdq6PEvF",
+        "preview": "https://p.scdn.co/mp3-preview/8aec35f2457a1ddeb195e1b716e201e978a7e07e?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 28,
+    "artist": "Dewa 19",
+        "judul": "Cinta 'kan Membawamu Kembali",
+        "durasi": 259333,
+        "url": "https://api.spotify.com/v1/tracks/6MwIBSBiAMGomp4I80Xkgw",
+        "preview": "https://p.scdn.co/mp3-preview/df1a77ceed650e9b2ac73497f77662c7d4573457?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 29,
+    "artist": "Yovie & Nuno",
+        "judul": "Manusia Biasa (CLB)",
+        "durasi": 227480,
+        "url": "https://api.spotify.com/v1/tracks/2gTg860d3Ju5ZbmkVVjukZ",
+        "preview": "https://p.scdn.co/mp3-preview/3b2e9a986c3c81a90900dce518ef5290850e41a7?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 30,
+    "artist": "Afgan",
+        "judul": "Percayalah",
+        "durasi": 264133,
+        "url": "https://api.spotify.com/v1/tracks/2JNkwar9orTpjlBoDgTXbJ",
+        "preview": "https://p.scdn.co/mp3-preview/9395f5d54ded44554ba84ecd238cd75ac5b9c311?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 31,
+    "artist": "NaFF",
+        "judul": "Akhirnya Ku Menemukanmu",
+        "durasi": 306213,
+        "url": "https://api.spotify.com/v1/tracks/6BoyG3bQ8rjDdqatMg5IWM",
+        "preview": "https://p.scdn.co/mp3-preview/506777b67dfdd0b5d06c0d62cf5a4963843b5042?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 32,
+    "artist": "Afgan",
+        "judul": "Jodoh Pasti Bertemu",
+        "durasi": 245232,
+        "url": "https://api.spotify.com/v1/tracks/4RO9HkL5gStGYDofw0QWDX",
+        "preview": "https://p.scdn.co/mp3-preview/712c9b3b66b5cbc2442a528cc9fcd8781936a473?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 33,
+    "artist": "Jikustik",
+        "judul": "Selamat Malam Dunia",
+        "durasi": 244906,
+        "url": "https://api.spotify.com/v1/tracks/7AQJDPy0nxjcqda1T9f5wX",
+        "preview": "https://p.scdn.co/mp3-preview/9ca4d772ef200fa0798221caef00a7d877d21e5c?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 34,
+    "artist": "Kygo",
+        "judul": "Freedom",
+        "durasi": 198635,
+        "url": "https://api.spotify.com/v1/tracks/5Gj1wG8b12VQdEd3hUuSwo",
+        "preview": "https://p.scdn.co/mp3-preview/0847be334607b0c8ae097e5453d2e7f03536d29e?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 35,
+    "artist": "Dominic Fike",
+        "judul": "3 Nights",
+        "durasi": 177666,
+        "url": "https://api.spotify.com/v1/tracks/1tNJrcVe6gwLEiZCtprs1u",
+        "preview": "https://p.scdn.co/mp3-preview/4541d9fdce0a1a70103690863356bee8ca05d02b?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 36,
+    "artist": "Ruth B.",
+        "judul": "Dandelions",
+        "durasi": 233720,
+        "url": "https://api.spotify.com/v1/tracks/2eAvDnpXP5W0cVtiI0PUxV",
+        "preview": "https://p.scdn.co/mp3-preview/de039809a674d90a5ebe377c054556ecbcf8b9b1?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 37,
+    "artist": "Harry Styles",
+        "judul": "Watermelon Sugar",
+        "durasi": 174000,
+        "url": "https://api.spotify.com/v1/tracks/6UelLqGlWMcVH1E5c4H7lY",
+        "preview": "https://p.scdn.co/mp3-preview/0c51b5f7ed852504844feebfb4f4b7f099452662?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 38,
+    "artist": "Giveon",
+        "judul": "For Tonight",
+        "durasi": 193821,
+        "url": "https://api.spotify.com/v1/tracks/61Emqg95O9zo1GNOcyxq4Y",
+        "preview": "https://p.scdn.co/mp3-preview/6f57cebc9f832e8b34b42ccb5ef7b081c70991a9?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 39,
+    "artist": "Bazzi",
+        "judul": "I Like That",
+        "durasi": 158083,
+        "url": "https://api.spotify.com/v1/tracks/2RkZZh5XQ4y3sG8gCu96Tz",
+        "preview": "https://p.scdn.co/mp3-preview/398aaf8f3041b654656e6196ee0aea31eee860ce?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 40,
+    "artist": "Dua Lipa",
+        "judul": "Levitating (feat. DaBaby)",
+        "durasi": 203064,
+        "url": "https://api.spotify.com/v1/tracks/463CkQjx2Zk1yXoBuierM9",
+        "preview": "https://p.scdn.co/mp3-preview/cc617f669fd1e3ee33a4ac0c66346fefd15286e7?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 41,
+    "artist": "Adele",
+        "judul": "Can I Get It",
+        "durasi": 210384,
+        "url": "https://api.spotify.com/v1/tracks/6w8ZPYdnGajyfPddTWdthN",
+        "preview": "https://p.scdn.co/mp3-preview/fcbda57102f62fbab2f827dd4719e038ddfd3e61?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 42,
+    "artist": "Dominic Fike",
+        "judul": "3 Nights",
+        "durasi": 177666,
+        "url": "https://api.spotify.com/v1/tracks/1tNJrcVe6gwLEiZCtprs1u",
+        "preview": "https://p.scdn.co/mp3-preview/4541d9fdce0a1a70103690863356bee8ca05d02b?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 43,
+    "artist": "P!nk",
+        "judul": "All I Know So Far",
+        "durasi": 277413,
+        "url": "https://api.spotify.com/v1/tracks/4LmN3eU1R1vVEdKuDELpGk",
+        "preview": "https://p.scdn.co/mp3-preview/c2999c387002264cda797fd8d16545c289cf5198?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 44,
+    "artist": "Jason Derulo",
+        "judul": "Acapulco",
+        "durasi": 139672,
+        "url": "https://api.spotify.com/v1/tracks/3eJH2nAjvNXdmPfBkALiPZ",
+        "preview": "https://p.scdn.co/mp3-preview/6291f886d5e33da6f0228a0ca664e0fa194f9558?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 45,
+    "artist": "Vance Joy",
+        "judul": "Missing Piece",
+        "durasi": 217408,
+        "url": "https://api.spotify.com/v1/tracks/0YYg6U1Yrd4UjnG5iVhiXh",
+        "preview": "https://p.scdn.co/mp3-preview/1ae94c195b0a3a073f12ae6450228533e9df0fc1?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 46,
+    "artist": "Jason Derulo",
+        "judul": "Acapulco",
+        "durasi": 139672,
+        "url": "https://api.spotify.com/v1/tracks/3eJH2nAjvNXdmPfBkALiPZ",
+        "preview": "https://p.scdn.co/mp3-preview/6291f886d5e33da6f0228a0ca664e0fa194f9558?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 47,
+    "artist": "Walker Hayes",
+        "judul": "Fancy Like",
+        "durasi": 161853,
+        "url": "https://api.spotify.com/v1/tracks/3ZozFqJJlDBNIm4xqxn2ZD",
+        "preview": "https://p.scdn.co/mp3-preview/5cff8d74db9028399ae8655c9edd8364e0d640a5?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 48,
+    "artist": "AJR",
+        "judul": "Way Less Sad",
+        "durasi": 206108,
+        "url": "https://api.spotify.com/v1/tracks/4jbtL4tjkqghUvJknUqU1s",
+        "preview": "https://p.scdn.co/mp3-preview/8a0ec8793f0199ad87a562c3ed2e6567d92cc399?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 49,
+    "artist": "Tones And I",
+        "judul": "Fly Away",
+        "durasi": 178156,
+        "url": "https://api.spotify.com/v1/tracks/1jgu8MFTEGdL1wjw9gZj5y",
+        "preview": "https://p.scdn.co/mp3-preview/57bd6e9f2e0d27a44884010a836a55faeb8f1bd7?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  },
+  {
+    "index": 50,
+    "artist": "The Kid LAROI",
+        "judul": "STAY (with Justin Bieber)",
+        "durasi": 141805,
+        "url": "https://api.spotify.com/v1/tracks/5HCyWlXZPP0y6Gqq8TgA20",
+        "preview": "https://p.scdn.co/mp3-preview/dd4d8d66b97b6edcb5358135e72620715e1449f9?cid=44c1a1e9d3db4e87b27716e72196b13f"
+  }
+]
